@@ -194,3 +194,15 @@ p.copyright {
     margin-bottom: 30px;
     border-top: 1px solid #dcdcdc;
 }
+
+.aboutEdits
+{
+    background-color: #EEEEEE;
+    text-align: center;
+}
+
+.rosterEdits
+{
+    background-color: #EEEEEE;
+    text-align: center;
+}
